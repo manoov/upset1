@@ -1,0 +1,64 @@
+﻿{
+    "Sheet1": [
+        {
+            "Leukemia": "hsa-mir-221"
+        },
+        {
+            "Leukemia": "hsa-mir-223"
+        },
+        {
+            "Leukemia": "hsa-mir-155"
+        },
+        {
+            "Leukemia": "hsa-mir-106b"
+        },
+        {
+            "Leukemia": "hsa-mir-181b"
+        },
+        {
+            "Leukemia": "hsa-mir-24"
+        },
+        {
+            "Leukemia": "hsa-let-7a"
+        },
+        {
+            "Leukemia": "hsa-mir-145"
+        },
+        {
+            "Leukemia": "hsa-mir-142"
+        },
+        {
+            "Leukemia": "hsa-mir-222"
+        },
+        {
+            "Leukemia": "hsa-mir-106a"
+        },
+        {
+            "Leukemia": "hsa-mir-214"
+        },
+        {
+            "Leukemia": "hsa-mir-29a"
+        },
+        {
+            "Leukemia": "hsa-mir-29b"
+        },
+        {
+            "Leukemia": "hsa-mir-203"
+        },
+        {
+            "Leukemia": "hsa-mir-29c"
+        },
+        {
+            "Leukemia": "hsa-let-7e"
+        },
+        {
+            "Leukemia": "hsa-mir-146a"
+        },
+        {
+            "Leukemia": "hsa-mir-126"
+        },
+        {
+            "Leukemia": "hsa-mir-200a"
+        }
+    ]
+}
